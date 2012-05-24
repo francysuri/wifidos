@@ -1,4 +1,9 @@
 Usage:
+<<<<<<< HEAD
 
 type 'make' to compile
 
+=======
+type 'make' to compile
+when i have time i'll add a bash script to install it :D
+>>>>>>> 87f0e442cf747b86c8df00ee26a121656776ec09
